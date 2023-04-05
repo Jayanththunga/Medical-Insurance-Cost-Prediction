@@ -1,4 +1,4 @@
-"# Medical-Insurance-Cost-Prediction" 
+Medical-Insurance-Cost-Prediction 
 
 The project aims to develop a machine learning model for predicting medical 
 insurance costs based on demographic, lifestyle, and medical information of the 
