@@ -1,0 +1,7 @@
+1. python
+2. numpy  
+3. pandas
+4. matplotlib
+5. seaborn
+6. sklearn
+7. xgboost
